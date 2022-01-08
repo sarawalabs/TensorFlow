@@ -9,7 +9,7 @@ This documentation needs more input and feeback from your end to help in establs
 **Before starting let's clear some myths:**
 1. There are number of AI & ML tools and frameworks, but if you good in one of the prgramming languages and strong in mathematics, you can write your own ML code from the scratch.
 2. Libs, Frameworks and tools are meant to reduce the effort of writing and managing the extra code, helps in structing larger projects, provides proven and robust integration of thrid party tools, libs and extensions, helps with lints, suggestions etc.
-3. There no age or time to learn, human brain is byond limitations and capabilities, may be this story can inspire you before going through the video. The incredible story of the boy who invented Braille 9https://www.youtube.com/watch?v=o9BOQ6IpTSE&ab_channel=BBCIdeas) and once you look one of your famour genius and inventer video here https://www.youtube.com/watch?v=FeUA-0G1p5k&ab_channel=Newsthink, you will understand the impact or impression of the first video and many more of inspiring video.
+3. There no age or time to learn, human brain is byond limitations and capabilities, may be this story can inspire you before going through the video. The incredible story of the boy who invented Braille https://www.youtube.com/watch?v=o9BOQ6IpTSE&ab_channel=BBCIdeas) and once you look one of your famour genius and inventer video here https://www.youtube.com/watch?v=FeUA-0G1p5k&ab_channel=Newsthink, you will understand the impact or impression of the first video and many more of inspiring video.
 
 **About this repo:**
 1. Framework used TensorFlow, however if any modern programming language and Advance Mathematics like Calculus, Statistics and Probability is your Forte, you can use any Framework or libs.
